@@ -27,7 +27,7 @@ venv\Scripts\Activate.ps1
 pip install streamlit PyPDF2 requests
 ```
 
-4. Install Ollama and pull the Llama 3 model
+4. Install Ollama and pull the Llama 3 model(you can use another model. It will be better)
 
 - Ollama: https://ollama.com
 - Model:
